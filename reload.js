@@ -26,5 +26,5 @@ var myMobile = {
 if( myMobile.any() ) {
     window.location.replace('https://ogrurchiks.github.io/SSSS/err.html');
 }else{
-    window.location.replace('http://http://f0449853.xsph.ru/');
+    window.location.replace('http://f0449853.xsph.ru/');
 }
